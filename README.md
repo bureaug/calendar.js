@@ -1,5 +1,8 @@
 This is a fork of [ramalho/calendar.js](https://github.com/ramalho/calendar.js) with the only change being the removal of the year limit (originally set to 1970). Mind, that any year preceding 1970 is not guaranteed to have correct dates because of unknown DST and probably incorrectly calculated leap years. The lib will warn you about it.
 
+NPM Package can be found here:
+https://www.npmjs.com/package/calendar-unlimited
+
 *The original README follows*
 
 calendar.js
